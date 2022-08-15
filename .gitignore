@@ -1,0 +1,3 @@
+Program/.ipynb_checkpoints/*
+Dataset/*
+!Dataset/*.md
